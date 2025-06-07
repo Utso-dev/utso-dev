@@ -2,7 +2,7 @@
   <h1>
     Hey there! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    My name is <strong>Utso Sarkar</strong> — a passionate Full Stack Developer from Bangladesh.
+    My name is <strong>Utso Sarkar</strong> — a passionate Fron-End_Developer from Bangladesh.
   </h1>
 </div>
 
@@ -16,8 +16,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -30,12 +28,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
 ---
 
 ### 🌐 Let's Connect:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshick-chowdhury-6917a3179)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshick1170@gmail.com)
 
@@ -65,10 +61,10 @@
 > ❤️ Feel free to reach out, collaborate or just say hi!
 
 
-- 🌱 I’m currently working as a Software Engineer at *[BD Calling IT Limited](https://bdcalling.com/)*
+- 🌱 I’m currently working as a Front-end-Developer at *[BD Calling IT Limited](https://bdcalling.com/)*
 
 - 👯 I’m looking to collaborate on *Open Source projects*
 
-- 📫 Reach me at *kowshick1170@gmail.com*
+- 📫 Reach me at *utsosarkar7870@gmail.com*
 
 - ⚡ Fun fact: *Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.*
