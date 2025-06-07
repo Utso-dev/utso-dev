@@ -14,23 +14,24 @@
 
 ### 🚀 Languages & Tools I Work With:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=tailwindcss&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=F7DF1E&label=)
+![React](https://img.shields.io/badge/-?style=flat-square&logo=react&logoColor=61DAFB&label=)
+![Tailwind CSS](https://img.shields.io/badge/-?style=flat-square&logo=tailwind-css&logoColor=38B2AC&label=)
+![Bootstrap](https://img.shields.io/badge/-?style=flat-square&logo=bootstrap&logoColor=563D7C&label=)
+![SCSS](https://img.shields.io/badge/-?style=flat-square&logo=sass&logoColor=CC6699&label=)
+![HTML5](https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=E34F26&label=)
+![Node.js](https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoColor=339933&label=)
+![MongoDB](https://img.shields.io/badge/-?style=flat-square&logo=mongodb&logoColor=47A248&label=)
+![Vite](https://img.shields.io/badge/-?style=flat-square&logo=vite&logoColor=646CFF&label=)
+![Git](https://img.shields.io/badge/-?style=flat-square&logo=git&logoColor=F05032&label=)
+![Postman](https://img.shields.io/badge/-?style=flat-square&logo=postman&logoColor=FF6C37&label=)
+![Figma](https://img.shields.io/badge/-?style=flat-square&logo=figma&logoColor=F24E1E&label=)
+![Prettier](https://img.shields.io/badge/-?style=flat-square&logo=prettier&logoColor=F7B93E&label=)
+![ESLint](https://img.shields.io/badge/-?style=flat-square&logo=eslint&logoColor=4B32C3&label=)
+![Next.js](https://img.shields.io/badge/-?style=flat-square&logo=next.js&logoColor=white&label=)
+![shadcn/ui](https://img.shields.io/badge/-?style=flat-square&logo=tailwindcss&logoColor=white&label=)
+![npm](https://img.shields.io/badge/-?style=flat-square&logo=npm&logoColor=CB3837&label=)
+
 
 ---
 
