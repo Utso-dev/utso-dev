@@ -14,9 +14,10 @@
 
 ### 🚀 Languages & Tools I Work With:
 
+<!-- ICON-ONLY BADGES -->
 ![JavaScript](https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=F7DF1E&label=)
 ![React](https://img.shields.io/badge/-?style=flat-square&logo=react&logoColor=61DAFB&label=)
-![Tailwind CSS](https://img.shields.io/badge/-?style=flat-square&logo=tailwind-css&logoColor=38B2AC&label=)
+![Tailwind CSS](https://img.shields.io/badge/-?style=flat-square&logo=tailwindcss&logoColor=38B2AC&label=)
 ![Bootstrap](https://img.shields.io/badge/-?style=flat-square&logo=bootstrap&logoColor=563D7C&label=)
 ![SCSS](https://img.shields.io/badge/-?style=flat-square&logo=sass&logoColor=CC6699&label=)
 ![HTML5](https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=E34F26&label=)
@@ -31,6 +32,7 @@
 ![Next.js](https://img.shields.io/badge/-?style=flat-square&logo=next.js&logoColor=white&label=)
 ![shadcn/ui](https://img.shields.io/badge/-?style=flat-square&logo=tailwindcss&logoColor=white&label=)
 ![npm](https://img.shields.io/badge/-?style=flat-square&logo=npm&logoColor=CB3837&label=)
+
 
 
 ---
