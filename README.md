@@ -45,13 +45,13 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kowshickChowdhury&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Utso-dev&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowshickChowdhury&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utso-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=kowshickChowdhury&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utso-dev&show_icons=true&hide_border=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kowshickChowdhury&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Utso-dev&theme=highcontrast&hide_border=true" />
 </div>
 
 ---
